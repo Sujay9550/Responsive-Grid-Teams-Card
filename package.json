@@ -1,0 +1,15 @@
+{
+  "name": "responsive-grid-teams-card",
+  "version": "1.0.0",
+  "description": "Teams Card",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Sujay",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
